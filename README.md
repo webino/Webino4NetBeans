@@ -1,6 +1,6 @@
 # Webino plugin for NetBeans IDE
 
-This plugin add some additional directories to our NetBeans project.
+This plugin adds some additional directories to your NetBeans project.
 
 Available directory structure with this module:
 
